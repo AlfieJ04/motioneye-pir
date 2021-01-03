@@ -15,7 +15,7 @@ On the camera, the root filesystem has to be mounte Read/Write to install the sc
 Download the script
 
     [root@cam1 ~]# mkdir /data/pir
-    [root@cam1 ~]# curl -o /data/pir/pir_motion_detector.py https://raw.githubusercontent.com/avanc/motioneye-pir/master/pir_motion_detector.py
+    [root@cam1 ~]# curl -o /data/pir/pir_motion_detector.py https://raw.githubusercontent.com/alfiej04/motioneye-pir/master/pir_motion_detector.py
 
 and make your config changes
 
