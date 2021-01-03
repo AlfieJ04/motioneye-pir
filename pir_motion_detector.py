@@ -6,7 +6,7 @@
 ############################
 # Configuration parameters #
 ############################
-PIR_GPIO = 4 # GPIO numbering
+PIR_GPIO = 17 # GPIO numbering
 #PIR_PIN = 7 # Alternatively set the physical pin number
 
 INTERNAL_RESISTOR="off"; # off for PIR sensor, pull-down for button connected to 3.3V
